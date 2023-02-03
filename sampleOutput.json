@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Mohammed Tawfeeq, Aqeel Najim and Ivana Kottasová, CNN",
+      "title": "At least 10 killed in clashes in Baghdad's Green Zone after powerful cleric announces withdrawal from politics - CNN",
+      "description": "At least 10 people were killed and more than 200 injured in violent clashes that erupted in Baghdad's heavily fortified Green Zone on Monday, following an announcement by powerful Iraqi Shia cleric Muqtada al-Sadr that he was withdrawing from political life, …",
+      "url": "https://www.cnn.com/2022/08/29/middleeast/al-sadr-iraq-protests-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220829140718-protest-baghdad-082922-super-tease.jpg",
+      "publishedAt": "2022-08-30T08:44:00Z",
+      "content": "(CNN)At least 10 people were killed and more than 200 injured in violent clashes that erupted in Baghdad's heavily fortified Green Zone on Monday, following an announcement by powerful Iraqi Shia cle… [+4295 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Clare Duffy, CNN Business",
+      "title": "Musk's legal team to depose whistleblower Peiter Zatko in Twitter case - CNN",
+      "description": "Elon Musk's legal team has subpoenaed former Twitter head of security and whistleblower Peiter \"Mudge\" Zatko to appear for a deposition in its legal fight against Twitter over their acquisition deal on September 9.",
+      "url": "https://www.cnn.com/2022/08/29/tech/elon-musk-twitter-lawsuit-whistleblower-deposition/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220823121807-05-peiter-zatko-portrait-super-tease.jpg",
+      "publishedAt": "2022-08-29T21:11:00Z",
+      "content": null
+    },
+    {
+      "status": "ok",
+      "totalResults": 1,
+      "articles": [
+        {
+          "source": { "id": "cnn", "name": "CNN" },
+          "author": "https://www.facebook.com/bbcnews",
+          "title": "Pakistan floods: Disaster to cost more than $10bn, minister says - BBC",
+          "description": "Unprecedented floods have killed more than 1,100 people and washed away roads, crops, homes and bridges.",
+          "url": "https://www.bbc.com/news/business-62719659",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9C17/production/_126495993_gettyimages-1242796794.jpg",
+          "publishedAt": "2022-08-30T05:27:11Z",
+          "content": "By Peter HoskinsBusiness reporter\r\nPakistan's planning minister says early estimates show the devastating floods that hit the country have caused at least $10bn (£8.5bn) of damage.\r\nHis comment comes… [+2979 chars]"
+        }
+      ]
+    },
+
+    {
+      "status": "ok",
+      "totalResults": 2,
+      "articles": [
+        {
+          "source": { "id": null, "name": "CNBC" },
+          "author": "Melissa Repko, Lauren Thomas",
+          "title": "Bed Bath & Beyond will unveil its turnaround plan Wednesday. Here are 5 issues investors want addressed - CNBC",
+          "description": "The home goods retailer is under pressure as it struggles with slowing sales and competes for customers amid a tougher economic backdrop.",
+          "url": "https://www.cnbc.com/2022/08/30/bed-bath-beyond-turnaround-plan-5-issues-investors-want-addressed.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106970980-1636051294977-gettyimages-1351328071-ab9i4336_20211104110809676.jpeg?v=1661262027&w=1920&h=1080",
+          "publishedAt": "2022-08-30T11:00:01Z",
+          "content": "A pedestrian walks by a Bed Bath and Beyond store on November 04, 2021 in Larkspur, California.\r\nBed Bath &amp; Beyond is on the clock.\r\nOn Wednesday, the troubled home goods retailer is expected to … [+8087 chars]"
+        },
+        {
+          "source": { "id": null, "name": "CNBC" },
+          "author": "Jesse Pound",
+          "title": "Stock futures rise slightly after second-straight negative session - CNBC",
+          "description": "The stock market is looking for support as Wall Street slumped toward a losing month.",
+          "url": "https://www.cnbc.com/2022/08/29/stock-market-news-futures-open-to-close-live-updates.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107110721-1661789175637-nyse7.jpg?v=1661789212&w=1920&h=1080",
+          "publishedAt": "2022-08-30T00:14:00Z",
+          "content": "Stock futures ticked higher on Monday evening as Wall Street sought stability after another down day for stocks.\r\nFutures for the S&amp;P 500 inched upward by 0.1%, while Nasdaq 100 futures also adde… [+1157 chars]"
+        }
+      ]
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Naomi Thomas, CNN",
+      "title": "Many patients stop taking statins because of muscle pain, but statins aren't causing it, new study says - CNN",
+      "description": "Statins are an important tool to prevent major cardiovascular problems, but many patients stop taking them because of side effects, including muscle pain. However, for more than 90% of patients on statins who experience muscle pain, the statin is not the caus…",
+      "url": "https://www.cnn.com/2022/08/29/health/statins-muscle-pain-study-wellness/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220829134227-statin-tablet-super-tease.jpg",
+      "publishedAt": "2022-08-29T12:33:00Z",
+      "content": "(CNN)Statins are an important tool to prevent major cardiovascular problems, but many patients stop taking them because of side effects, including muscle pain. However, for more than 90% of patients … [+4940 chars]"
+    }
+  ]
+}
