@@ -30,4 +30,4 @@ const NewsItem = (props)=> {
   
 }
 
-export default NewsItem
+export default NewsItem;
